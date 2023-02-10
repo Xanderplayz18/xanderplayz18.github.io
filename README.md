@@ -5,7 +5,7 @@ cool projects:
 
 [inject0r](https://github.com/Platinome/inject0r)
 
-[etsi](etsi.me)
+[etsi](https://etsi.me)
 
-[fosscord](staging.fosscord.com)
+[fosscord](https://staging.fosscord.com)
 
