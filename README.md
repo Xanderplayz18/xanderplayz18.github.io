@@ -10,4 +10,4 @@ cool projects:
 [fosscord](https://staging.fosscord.com)
 
 others:
-[8192](/8192%202)
+[8192](/8192%202.html)
