@@ -10,6 +10,7 @@ cool projects:
 [fosscord](https://staging.fosscord.com)
 
 others:
+
 [8192](/8192%202.html)
 
-[Chaaty](/Chaaty%20Main%202.html)
+[Chaaty](/Chaaty%20Main%203.html)
