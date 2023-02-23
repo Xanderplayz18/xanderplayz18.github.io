@@ -12,4 +12,4 @@ cool projects:
 others:
 [8192](/8192%202.html)
 
-[Chaaty](/Chaaty%20Main.html)
+[Chaaty](/Chaaty%20Main%202.html)
