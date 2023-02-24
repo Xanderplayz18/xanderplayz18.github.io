@@ -13,4 +13,4 @@ others:
 
 [8192](/8192%202.html)
 
-[Chaaty](/Chaaty%20Main%203.html)
+[Chaaty](/Chaaty%202.html)
