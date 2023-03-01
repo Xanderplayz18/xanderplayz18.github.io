@@ -1,5 +1,7 @@
-# xanderplayz18.github.io
-this is my backup account
+# xanderplayz16
+hosted by my epic backup account
+my main:
+[main](https://github.com/xanderplayz16)
 
 cool projects:
 
