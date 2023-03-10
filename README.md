@@ -1,9 +1,9 @@
-# xanderplayz16
-hosted by my epic backup account
-my main:
+Github Pages repo on my backup account (xanderplayz18.github.io)
+
+My main:
 [main](https://github.com/xanderplayz16)
 
-cool projects:
+Cool projects:
 
 [inject0r](https://github.com/Platinome/inject0r)
 
