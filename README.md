@@ -7,7 +7,7 @@ Cool projects:
 
 [inject0r](https://github.com/Platinome/inject0r)
 
-[eaglercraft](/Offline_Download_Version.html.txt)
+[eaglercraft](/Offline_Download_Version.html)
 
 [etsi](https://etsi.me)
 
