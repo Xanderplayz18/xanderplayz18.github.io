@@ -11,7 +11,7 @@ Cool projects:
 
 [etsi](https://etsi.me)
 
-[fosscord](https://staging.fosscord.com)
+[fosscord](https://fosscord.com)
 
 others:
 
