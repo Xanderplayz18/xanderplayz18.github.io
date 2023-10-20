@@ -20,3 +20,18 @@ others:
 [Chaaty](/Chaaty.html)
 
 [ my recreation of club penguin](/penguin.html)
+
+links for securly bypass i found:
+
+[element](https://app.element.io)
+
+[DLS-GL](https://dlsgl.xanderplayz.repl.co/)
+
+[etsi](https://etsi.me)
+
+[etsi](https://etsi.me)
+
+[etsi](https://etsi.me)
+
+[etsi](https://etsi.me)
+
