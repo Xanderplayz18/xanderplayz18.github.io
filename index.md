@@ -27,7 +27,7 @@ links for securly bypass i found:
 
 [DLS-GL](https://dlsgl.xanderplayz.repl.co/)
 
-[etsi](https://etsi.me)
+[DLS-GL Backup](https://xanderplayz16.github.io/DLS-GL/index.html)
 
 [etsi](https://etsi.me)
 
